@@ -4,22 +4,6 @@ This project implements a fully NumPy-based neural network to classify handwritt
 
 ---
 
-## 📋 Table of Contents
-
-* [Project Overview](#project-overview)
-* [Dataset](#dataset)
-* [Model Architecture](#model-architecture)
-* [Implementation Details](#implementation-details)
-* [Training Process](#training-process)
-* [Results](#results)
-* [Requirements](#requirements)
-* [Usage](#usage)
-* [Project Structure](#project-structure)
-* [Future Work](#future-work)
-* [Author & Credits](#author--credits)
-
----
-
 ## 📝 Project Overview
 
 This repository contains a Python implementation of a multi-layer perceptron (MLP) built from scratch using NumPy. The network is trained on the MNIST dataset to classify images of handwritten chinese digits. The primary goals are:
@@ -32,7 +16,7 @@ This repository contains a Python implementation of a multi-layer perceptron (ML
 
 ## 📊 Dataset
 
-The [MNIST dataset](https://www.kaggle.com/c/digit-recognizer/data) consists of 70,000 grayscale images (64×64 pixels) of handwritten digits:
+The [MNIST dataset]([https://www.kaggle.com/c/digit-recognizer/data](https://www.kaggle.com/datasets/gpreda/chinese-mnist)) consists of 15,000 grayscale images (64×64 pixels) of handwritten chinese digits:
 
 * **Training set**: 13,000 images
 * **Test set**: 2,000 images
