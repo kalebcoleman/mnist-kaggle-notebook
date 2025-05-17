@@ -16,7 +16,7 @@ This repository contains a Python implementation of a multi-layer perceptron (ML
 
 ## 📊 Dataset
 
-The [MNIST dataset]([https://www.kaggle.com/c/digit-recognizer/data](https://www.kaggle.com/datasets/gpreda/chinese-mnist)) consists of 15,000 grayscale images (64×64 pixels) of handwritten chinese digits:
+The [MNIST dataset](https://www.kaggle.com/datasets/gpreda/chinese-mnist) consists of 15,000 grayscale images (64×64 pixels) of handwritten chinese digits:
 
 * **Training set**: 13,000 images
 * **Test set**: 2,000 images
