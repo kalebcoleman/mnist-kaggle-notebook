@@ -83,7 +83,7 @@ Final training accuracy plateau: ~98.7%
 **Kaleb Coleman**  
 Data Science Major, Northern Arizona University
 
-**Inspired by**: Video tutorial by Samson Zhang: https://www.youtube.com/watch?v=w8yWXqWQYmU
+**Inspired by**: Video tutorial by [Samson Zhang](https://www.youtube.com/watch?v=w8yWXqWQYmU)
 
 Feel free to cite, modify, or contribute via pull requests!
 
