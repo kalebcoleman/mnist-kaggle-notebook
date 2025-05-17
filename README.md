@@ -62,9 +62,24 @@ Input (4096) → Dense (128, ReLU) → Dense (15, Softmax)
 
 ## 📈 Results
 
-results picture
+After training with mini-batches, Adam optimization, data augmentation, and early stopping, the network achieved:
 
-*Final test accuracy reaches over ****95%**** with fine-tuning of learning rate and epochs.*
+Best test accuracy: 95.20% (early stop at epoch 228)
+
+Final training accuracy plateau: ~98.7%
+
+Performance snapshot:
+
+Epoch 90  – Train: 96.84% – Test: 92.70%
+Epoch 125 – Train: 97.72% – Test: 94.70%
+Epoch 175 – Train: 98.52% – Test: 94.00%
+Epoch 225 – Train: 98.74% – Test: 93.60%
+Early stopping at epoch 228. Best test accuracy: 95.20%
+
+
+Final test accuracy reaches over 95% with this optimized pipeline.
+
+*Final test accuracy reaches over ****95%**** with this optimized pipeline.*
 
 ---
 
